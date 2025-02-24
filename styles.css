@@ -1,0 +1,7 @@
+.carousel-caption {
+    top: 20%;
+}
+
+.carousel-item img {
+    object-fit: cover;
+}
